@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammad ALi-bin-abdul raheem
-- 👀 I’m a Gamer
-- 🌱 I’m currently doing Software Engeeniring
+- 👋 Hi, I’m Mohammad ALi
+- 👀 Flutter intern
+- 🌱 Software Engineer
 
 <!---
 Pheonix55/Pheonix55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
