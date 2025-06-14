@@ -27,6 +27,10 @@ I'm a passionate **Junior Laravel Developer** and a budding **Flutter enthusiast
 
 ![Muhammad Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pheonix55&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pheonix55&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pheonix55&theme=radical)
+
 ---
 
 ## 📫 Let's Connect
