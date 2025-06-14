@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad ALi
-- 👀 Flutter 
-- 👀 Laravel developer 
+- 👀 Flutter( beginner )
+- 👀 junior Laravel developer 
 - 🌱 Software Engineer
 
 <!---
