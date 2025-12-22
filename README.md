@@ -6,7 +6,7 @@ I'm a passionate **Junior Laravel Developer** and a budding **Flutter enthusiast
 
 ## 🚀 About Me
 
-- 💻 Currently working with **Laravel** (APIs, CRUD, Sanctum Auth)
+- 💻 Currently working with **Laravel** (APIs, building Multi-tenant Saas System from scratch)
 - 📱 Exploring mobile development with **Flutter**
 - 🌐 Comfortable with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**
 - 🛠️ Interested in full-stack development and clean architecture
